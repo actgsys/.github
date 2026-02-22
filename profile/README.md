@@ -31,4 +31,3 @@
 我們隨時準備好為您的獨特業務流程量身打造解決方案。
 - 📧 Email: info@actgsys.com
 - 📍 總部: 台北市大同區民生西路 323 號 7 樓之 1
-![Uploading banner.png…]()
