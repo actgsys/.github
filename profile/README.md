@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=ACTGSYS+Blueprint+Thinking" alt="ACTGSYS Banner">
+  <img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/52d20f2d-2e8b-4596-991a-5f6125e126b6" />
   
   # 🚀 驅動業務成長的 AI 與數據中樞
   
@@ -14,6 +14,7 @@
 我們致力於為中小企業打造從商機到帳務的無縫整合解決方案。不只是提供軟體，我們是您的 AI 數位轉型合夥人。從自動化資料收集到智能決策，幫您把繁瑣流程化為成長引擎。
 
 ## 🛠️ 核心產品與技術 (Our Ecosystem)
+
 - **Dinkoko ERP** - 業務中段的核心引擎，進銷存與物料報價自動化。
 - **DanLee CRM** - 業務前段的拓荒利器，AI 智能客戶追蹤與名片管理。
 - **TanJee Accounting** - (即將推出) 業務後段的財務守門員。
@@ -29,3 +30,4 @@
 我們隨時準備好為您的獨特業務流程量身打造解決方案。
 - 📧 Email: info@actgsys.com
 - 📍 總部: 台北市大同區民生西路 323 號 7 樓之 1
+![Uploading banner.png…]()
