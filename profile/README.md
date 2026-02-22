@@ -1,9 +1,10 @@
 <div align="center">
-  <img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/52d20f2d-2e8b-4596-991a-5f6125e126b6" />
+  <img width="1516" height="853" alt="banner" src="https://github.com/user-attachments/assets/37e8984c-9984-4e91-8e93-6378ed06ad13" />
   
   # 🚀 驅動業務成長的 AI 與數據中樞
   
   **藍圖思維 ACTGSYS | 台灣中小企業 ERP、CRM、AI 數位轉型首選專家**
+
   
   [官方網站](https://actgsys.com/zh) • [解決方案](https://actgsys.com/zh/solutions) • [聯絡我們](mailto:info@actgsys.com)
 </div>
